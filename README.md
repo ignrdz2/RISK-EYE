@@ -41,8 +41,8 @@ La falta de herramientas automatizadas para prever estos riesgos puede derivar e
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/gbaup/hackaton-basf-2025.git
-cd hackaton-basf-2025
+git clone https://github.com/ignrdz2/RISK-EYE.git
+cd RISK-EYE
 ```
 
 2. **Crear el archivo `.env`**
